@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Sam Altman: What on earth is happening at OpenAI?",
+            "description": "The BBC's technology editor Zoe Kleinman reflects on a whirlwind few days for the ChatGPT creator.",
+            "url": "http://www.bbc.co.uk/news/technology-67474879",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6619/production/_131773162_gettyimages-1778704898-1.jpg",
+            "publishedAt": "2023-11-21T13:52:23.7589294Z",
+            "content": "Picture a boardroom battle at a multi-billion-dollar company whose futuristic tech might either save or destroy the world.\r\nIts chief executive, who has the ear of world leaders, toppled as senior co… [+5812 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "OpenAI: Microsoft wants changes after Sam Altman debacle",
+            "description": "Microsoft's CEO responds to the chaos at OpenAI, where the boss's sacking has caused a staff revolt.",
+            "url": "http://www.bbc.co.uk/news/technology-67484455",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/180C1/production/_131779489_mediaitem131779487.jpg",
+            "publishedAt": "2023-11-21T13:37:21.3432761Z",
+            "content": "Microsoft boss Satya Nadella has called for changes to OpenAI's board after its shock firing of Sam Altman.\r\nHe told CNBC \"something has to change\" at the firm, but did not specify what that was, or … [+3604 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Congo-Brazzaville stampede: Dozens killed during army recruitment drive",
+            "description": "At least 37 people have died in a crush during an army recruitment drive, Brazzaville officials say.",
+            "url": "http://www.bbc.co.uk/news/world-africa-67476484",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13048/production/_131769877_gettyimages-516673556_afp976.jpg",
+            "publishedAt": "2023-11-21T13:22:22.3841957Z",
+            "content": "At least 37 people have died in a stampede during an army recruitment drive at a stadium in Congo-Brazzaville, officials have said. \r\nSome people tried to force their way through stadium's gates in t… [+613 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Yahya Sinwar: Who is the Hamas leader in Gaza?",
+            "description": "Thousands of Israeli troops are trying to find the man who heads the organisation's political wing.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-67473719",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1EA7/production/_131774870_sinwar_2023_getty976.jpg",
+            "publishedAt": "2023-11-21T08:37:17.2114997Z",
+            "content": "Yahya Sinwar has disappeared. Hardly surprising when thousands of Israeli troops backed by drones, electronic eavesdropping devices and human informants, are all trying to discover his whereabouts.\r\n… [+11597 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Elon Musk's X sues Media Matters over antisemitism analysis",
+            "description": "The lawsuit says Media Matters \"manipulated\" data in an attempt to \"destroy\" the social media site.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-67482231",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/129F5/production/_131777267_gettyimages-1768680938.jpg",
+            "publishedAt": "2023-11-21T08:07:19.9772015Z",
+            "content": "Elon Musk's social media platform X has sued a left-leaning pressure group that accused the site of allowing antisemitic posts next to advertising. \r\nX's lawsuit alleges that Media Matters for Americ… [+3574 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Banksy: BBC reveals lost interview of street artist after 20 years",
+            "description": "The mysterious artist is heard comparing his efficient approach to art to microwaving ready-meals.",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-67449087",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8F31/production/_131775663_banksy-index-getty.jpg",
+            "publishedAt": "2023-11-21T07:52:17.0700111Z",
+            "content": "A lost BBC interview with street artist Banksy has been unearthed, more than 20 years since it was recorded.\r\nThe recording includes Banksy comparing his approach to art - which involves producing gr… [+2648 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Brazil records its hottest ever temperature",
+            "description": "The town of Araçuaí in the country's southeast hit a high of 44.8C (112.6F) on Sunday.",
+            "url": "http://www.bbc.co.uk/news/world-latin-america-67482423",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/50C5/production/_131777602_c2506baa724e9a09e7e59a340ef3fdd0e2b0da7f-1.jpg",
+            "publishedAt": "2023-11-21T06:22:17.5219261Z",
+            "content": "Brazil has recorded its hottest ever temperature - 44.8C (112.6F) - as parts of the country endure a stifling heatwave.\r\nThe record was hit on Sunday in the town of Araçuaí, in Brazil's south-eastern… [+1672 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Uttarakhand tunnel collapse: First video emerges of trapped Indian workers",
+            "description": "The 41 workers have been trapped in an under-construction tunnel in northern India since 12 November.",
+            "url": "http://www.bbc.co.uk/news/world-asia-india-67482481",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14A61/production/_131777548_tunnel2.png",
+            "publishedAt": "2023-11-21T06:07:19.2726627Z",
+            "content": "Media caption, Watch the first video of trapped tunnel workers in Indias Uttarakhand\r\nA camera has captured footage of the 41 workers trapped in a tunnel in India's Uttarakhand state for the first ti… [+2997 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Israel Gaza live news: Gaza doctor says more 'intermittent shooting' heard at hospital",
+            "description": "The Indonesian Hospital boss tells the BBC hundreds of patients are still inside - but raises hopes of evacuations.",
+            "url": "http://www.bbc.co.uk/news/live/world-middle-east-67481139",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2023-11-21T04:07:18.1477571Z",
+            "content": "If you're just joining us, you can catch up on our previous live coverage of the Israel-Hamas war here.\r\nAnd here's a quick summary of what we know so far:\r\n<ul><li>\r\n The director of Gaza's Indonesi… [+1263 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Obama, Clooney and Gates: 'We can end child marriage in a generation'",
+            "description": "Michelle Obama, Amal Clooney and Melinda French Gates tell the BBC about need to end child marriage.",
+            "url": "http://www.bbc.co.uk/news/world-67473254",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E747/production/_131770295_c32a2ab5-4711-478f-b5fd-5b403fc5e0af.jpg",
+            "publishedAt": "2023-11-21T03:52:15.2024374Z",
+            "content": "Three of the world's most influential women have told BBC News they want to end child marriage within a generation.\r\nMichelle Obama, Amal Clooney and Melinda French Gates announced last year a collab… [+8127 chars]"
+        }
+    ]
+}
